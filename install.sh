@@ -76,13 +76,13 @@ function getChoices() {
 
 
 			##################################################################
-			##      Search: install-gnome-desktop
+			##      Search: 
 			##
 			##################################################################
-			## If the user presses 1), then it will install the GNOME-Desktop Environment.
+			## If the user presses 1), then it will install 
 
 			1)
-				sh install-gnome-desktop.sh
+				## Here
 
 
 
