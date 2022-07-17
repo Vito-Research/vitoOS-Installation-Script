@@ -79,23 +79,10 @@ function getChoices() {
 			##      Search: 
 			##
 			##################################################################
-			## If the user presses 1), then it will install 
+			## If the user presses 1), then it will install the required dep
 
 			1)
-				## Here
-
-
-
-
-
-
-
-
-
-
-
-
-
+				echo "hello world"
 
 
 	#			▼▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲►        ▲ ▼▼           ▼▲▲▼      ►▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲►           ►▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲►
