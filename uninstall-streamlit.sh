@@ -1,5 +1,5 @@
 ############################################################################################
-#			install-dependencies.sh
+#			uninstall-streamlit.sh
 #
 #
 ############################################################################################
@@ -9,14 +9,7 @@ function install() {
         clear
 
 	pacman -Syyu --noconfirm 
-        pacman -S --noconfirm npm
-        pacman -S --noconfirm toolbox
-        pacman -S --noconfirm electron
-        pacman -S --noconfirm python
-        pacman -S --noconfirm xorg-server
-        pacman -S --noconfirm xorg
-        pacman -S --noconfirm nodejs
-        pacman -S --noconfirm yay
+        yay -Rcns --noconfirm streamlit
 }
 
 
