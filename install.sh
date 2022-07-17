@@ -93,7 +93,7 @@ function getChoices() {
 			##################################################################
 			## If the user presses 1), then it will uninstall the dependencies
 
-			1)
+			2)
 				sh uninstall-dependencies.sh
 
 				;;
