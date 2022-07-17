@@ -76,13 +76,25 @@ function getChoices() {
 
 
 			##################################################################
-			##      Search: install-gnome-desktop
+			##      Search: install-dependencies
 			##
 			##################################################################
-			## If the user presses 1), then it will install the GNOME-Desktop Environment.
+			## If the user presses 1), then it will install the dependencies
 
 			1)
-				sh install-gnome-desktop.sh
+				sh install-dependencies.sh
+
+				;;
+
+
+			##################################################################
+			##      Search: uninstall-dependencies
+			##
+			##################################################################
+			## If the user presses 1), then it will uninstall the dependencies
+
+			1)
+				sh uninstall-dependencies.sh
 
 				;;
 
