@@ -106,7 +106,7 @@ function getChoices() {
 			##################################################################
 			## If the user presses 1), then it will install streamlit and it's dependencies.
 
-			1)
+			3)
 				sh install-streamlit.sh
 
 				;;
@@ -119,7 +119,7 @@ function getChoices() {
 			##################################################################
 			## If the user presses 1), then it will install streamlit and it's dependencies.
 
-			1)
+			4)
 				sh uninstall-streamlit.sh
 
 				;;
