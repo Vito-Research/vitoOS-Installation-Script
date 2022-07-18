@@ -2,8 +2,6 @@
 
 This repository is used to install vitoOS components and dependencies on various Arch Linux-based distributions. 
 
-
-
 > ## Dependencies
 > 
 > > > > `Arch Linux`
@@ -11,3 +9,5 @@ This repository is used to install vitoOS components and dependencies on various
 > > > > `sudo pacman  -S git`
 > 
 > > > > `sudo pacman -S repoctl`
+> 
+> > > > `sudo pacman -S go`
