@@ -9,7 +9,7 @@ function install() {
         clear
 
 	pacman -Syyu --noconfirm 
-        yay -S --noconfirm streamlit
+        yay -S --noconfirm python-streamlit
 }
 
 
